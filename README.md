@@ -16,7 +16,11 @@ create table user
 # Data used for testing --->
 
 insert into user values('hello@gmail.com','testing', 0,0);
+
 insert into user values('batman@gmail.com','bats', 2,1671436656860);
+
 insert into user values('shazam@gmail.com','thunder', 0,0);
+
 insert into user values('ironman@gmail.com','3000', 0,0);
+
 insert into user values('superman@gmail.com','3000', 3,1671480442049);
