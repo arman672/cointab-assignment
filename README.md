@@ -1,6 +1,6 @@
 # cointab-assignment
 
-# To run the app use the command "npm start" from the frontend directory to start the frontend part and to start the backend server again use the command "npm start" form the backend directory.
+To run the app use the command "npm start" from the frontend directory to start the frontend part and to start the backend server again use the command "npm start" form the backend directory.
 
 # database table used --->
 
