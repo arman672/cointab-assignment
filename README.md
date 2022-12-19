@@ -5,9 +5,10 @@
 # database table used --->
 
 create database users;
+
 create table user
 (
-	email varchar(50),
+    email varchar(50),
     password varchar(20),
     loginAttempts int,
     bolckedTime varchar(20)
